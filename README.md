@@ -1,9 +1,9 @@
-# REVERSE SHELL SCRIPT
+# REVERSE SHELL SCRIPT 🔁🐚
 
 Reverse shell is a Python program for accessing the victim PC/Computer remotely.
 
 ## Installation
-Required packages 🐱‍🚀
+Required packages
 
 ```bash
 pip install os
